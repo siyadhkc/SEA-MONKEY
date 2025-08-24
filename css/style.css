@@ -540,11 +540,14 @@ font-size: 14px;
 }
 .contact-section img{
   /* height: 80%; */
-  border-radius: 10px;
+/*   border-radius: 10px; */
+      padding-left: 20px;
+
+    
 }
 .contact-section .col-5 {
   width: 378px;
-  height: 400px;
+  height: 500px;
 }
 .social-linksindex{
   display: none;
